@@ -67,3 +67,5 @@ D:\Projects\StudyCenter\StudyCenter\StudyCenter\bin\Microsoft.Owin.Security.Micr
 D:\Projects\StudyCenter\StudyCenter\StudyCenter\obj\Debug\StudyCenter.csprojResolveAssemblyReference.cache
 D:\Projects\StudyCenter\StudyCenter\StudyCenter\obj\Debug\StudyCenter.dll
 D:\Projects\StudyCenter\StudyCenter\StudyCenter\obj\Debug\StudyCenter.pdb
+D:\Projects\StudyCenter\StudyCenter\StudyCenter\bin\nunit.framework.dll
+D:\Projects\StudyCenter\StudyCenter\StudyCenter\bin\nunit.framework.xml
